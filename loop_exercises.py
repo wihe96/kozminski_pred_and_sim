@@ -27,3 +27,6 @@ for i in range(1,11,1):
     m.append(number*i)
 print(m)
 
+#tes import
+import pandas as pd
+
